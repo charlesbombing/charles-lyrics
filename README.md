@@ -89,6 +89,3 @@ So, I count down the days till I won't have to say
 Oh, I count out the days till I won't have to say
 
 Maybe next time
-
-<audio autoplay>
- <source src = "Jamie Miller - Maybe Next Time (Official Video).mp3" type="audio/mp3"/>
